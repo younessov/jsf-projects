@@ -109,6 +109,12 @@ The script will:
 
 ---
 
+---
+
+![Portion Of Code Cleaning](potionCode.png)
+
+---
+
 ## Contribution
 Feel free to contribute by reporting issues or submitting pull requests on [GitHub](#).
 
